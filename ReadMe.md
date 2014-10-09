@@ -12,3 +12,10 @@
 1、右击“autobras.bat”，选择“创建快捷方式”
 
 2、将创建的快捷方式“autorun.bat - 快捷方式”复制到目录C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Startup或C:\ProgramData\Microsoft\Windows\「开始」菜单\程序\启动下
+
+
+保持在线：
+-----------------------------------
+1、用记事本打开keeplogin.py，在第20、21行对应位置填入学号、密码
+
+2、双击keepOnline.bat运行即可
